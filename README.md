@@ -1,7 +1,13 @@
-# DAKYUNG JUNG 
+## DAKYUNG JUNG 
 
-+ aim to be a Performance Marketer
-+ Graduated from Ewha Womans University
-    Korean language and literature 
-    Business management
-* dakyungjung@gmail.com 
+* Aim to be a performance marketer
+* Graduated EWU
+     * Korean Language and Literature
+     * Business Management
+
+* dakyungjung@gmail.com
+
+
+### Currently Study-ing...
++ Python
++ MySQL
